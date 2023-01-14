@@ -1,5 +1,6 @@
 <h1 align="center">Hey there 👋🏻, I'm Sudhanshu</h1>
 <h3 align="center">A passionate tech enthusiast and computer science student from India</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2noGiMyhhir9udJ3Fr7MKq&ust=1673792753438000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNDu9YWix_wCFQAAAAAdAAAAABAE">
 
 - 🔭 I’m currently working on **Data Structures & Problem Solving Skills**
 
