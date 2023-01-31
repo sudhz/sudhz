@@ -2,9 +2,9 @@
 <h3 align="center">A passionate tech enthusiast and computer science student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/kX0tq3qsY_U/maxresdefault.jpg">
 
-- 🔭 I’m currently working on **Problem Solving Skills & DSA**
+- 🔭 I’m currently working on **Flutter & Dart**
 
-- 🌱 I’m currently learning **Flutter & Dart**
+- 🌱 I’m currently learning **Graphs & Trees**
 
 - 🤝 I’m looking for help with **Full-Stack Development**
 
