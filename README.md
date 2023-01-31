@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋🏻 I'm Sudhanshu</h1>
+<h1 align="center">Hey there 👋🏻<br> I'm Sudhanshu</h1>
 <h3 align="center">A passionate tech enthusiast and computer science student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/kX0tq3qsY_U/maxresdefault.jpg">
 
