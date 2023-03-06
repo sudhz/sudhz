@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **shudhanshumakwana@gmail.com**
 
-<h3 align="left">Coding Platform Info:</h3>
+<h3 align="left">LeetCode Stats:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/sudhz" target="blank"><img align="center" src="https://leetcard.jacoblin.cool/sudhz?ext=activity" /></a>
 </p>
