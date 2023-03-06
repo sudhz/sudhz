@@ -10,10 +10,9 @@
 
 - 📫 How to reach me: **shudhanshumakwana@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">LeetCode Stats:</h3>
 <p align="left">
-<a href="https://twitter.com/@sudhz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sudhz_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sudhz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudhz" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sudhz" target="blank"><img align="center" src="https://leetcode-stats.vercel.app/api?username=sudhz&theme=Dark" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
