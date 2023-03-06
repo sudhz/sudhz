@@ -12,7 +12,7 @@
 
 <h3 align="left">Coding Platform Info:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/sudhz" target="blank"><img align="center" src="https://leetcode-stats.vercel.app/api?username=sudhz&theme=Dark" /></a>
+<a href="https://www.leetcode.com/sudhz" target="blank"><img align="center" src="https://leetcard.jacoblin.cool/sudhz?ext=activity" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
