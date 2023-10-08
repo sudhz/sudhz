@@ -21,43 +21,51 @@
 
 ###
 
-## Today's Weather
-<div align="center">
-
-`Chennai, India - 08/10/2023`
-
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
-
-Moderate rain
-
-</div>
+## My Recent Blogs
 
 
 <table>
-    <tr>
-        <th>Hour</th>
-        <td>00:00</td><td>01:00</td><td>02:00</td><td>03:00</td><td>04:00</td><td>05:00</td><td>06:00</td><td>07:00</td><td>08:00</td><td>09:00</td><td>10:00</td><td>11:00</td><td>12:00</td><td>13:00</td><td>14:00</td><td>15:00</td><td>16:00</td><td>17:00</td><td>18:00</td><td>19:00</td><td>20:00</td><td>21:00</td><td>22:00</td><td>23:00</td>
-    </tr>
-    <tr>
-        <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
-    </tr>
-    <tr>
-        <th>Condition</th>
-        <td width="200px">Light rain shower</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Sunny</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Partly cloudy</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain possible</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td>
-    </tr>
-    <tr>
-        <th>Temperature</th>
-        <td>27.6 °C</td><td>27.6 °C</td><td>27.3 °C</td><td>27.2 °C</td><td>27.2 °C</td><td>27.1 °C</td><td>27.2 °C</td><td>28.2 °C</td><td>29.1 °C</td><td>30 °C</td><td>30.4 °C</td><td>30.6 °C</td><td>30.4 °C</td><td>34 °C</td><td>29.1 °C</td><td>28.8 °C</td><td>28.4 °C</td><td>27.9 °C</td><td>27.9 °C</td><td>27.7 °C</td><td>27.6 °C</td><td>27.5 °C</td><td>27.5 °C</td><td>27.6 °C</td>
-    </tr>
-    <tr>
-        <th>Wind</th>
-        <td>8.3 kph</td><td>7.9 kph</td><td>8.6 kph</td><td>9.7 kph</td><td>13 kph</td><td>13.3 kph</td><td>13.3 kph</td><td>15.1 kph</td><td>16.6 kph</td><td>16.9 kph</td><td>15.8 kph</td><td>16.6 kph</td><td>18.7 kph</td><td>13 kph</td><td>19.8 kph</td><td>18 kph</td><td>18.4 kph</td><td>18 kph</td><td>16.6 kph</td><td>12.6 kph</td><td>13 kph</td><td>14.8 kph</td><td>15.1 kph</td><td>15.5 kph</td>
-    </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--yt58MuRN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kvjyy68mco8k2dbmbz9o.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/sudhz_/getting-started-with-vagrant-for-local-development-environments-3hk6">Getting Started with Vagrant for Local Development Environments</a>
+                <div>If you&#39;re a developer, you know how important it is to have a reliable and efficient local...</div>
+                <div><i>05/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ziq6XFGu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3tjtvss4asj3lqlfcag.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/sudhz_/a-comprehensive-guide-to-linux-commands-for-devops-warriors-17ee">A Comprehensive Guide to Linux Commands for DevOps Warriors</a>
+                <div>System Info Commands   Understanding system information is crucial for any DevOps engineer....</div>
+                <div><i>22/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--TPvQA-H---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h1gkset7276rk8gsxb9h.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/sudhz_/devops-demystified-the-catalyst-for-modern-software-delivery-546h">DevOps Demystified: The Catalyst for Modern Software Delivery</a>
+                <div>In the realm of software development and IT, DevOps has emerged as a transformative force. But what...</div>
+                <div><i>14/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--CEBQFEl2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n6oj7qyz6yikti17rxwi.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/sudhz_/demystifying-continuous-integration-vs-continuous-delivery-for-beginners-46ml">Demystifying Continuous Integration vs Continuous Delivery for Beginners</a>
+                <div>Continuous Integration vs Continuous Delivery Explained for Beginners   Welcome to the world...</div>
+                <div><i>13/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_5qDZKTr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qdbi6cmxwpy2k2vvaldw.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/sudhz_/demystifying-the-software-development-life-cycle-for-dummies-a-beginners-guide-2e97">Demystifying the Software Development Life Cycle for Dummies: A Beginner&#39;s...</a>
+                <div>Understanding the Software Development Lifecycle for Dummies   Software development can seem...</div>
+                <div><i>13/09/2023</i></div>
+            </td>
+        </tr>
 </table>
-
-
-*Updated at: 2023-10-08T08:31:00Z*
 
 <h2 align="left">👩‍💻  About Me</h2>
 
