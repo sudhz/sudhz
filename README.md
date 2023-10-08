@@ -21,7 +21,9 @@
 
 ###
 
-## My Recent Blogs
+<h2 align="left">📝  My Recent Blogs</h2>
+
+###
 
 
 <table>
@@ -66,6 +68,8 @@
             </td>
         </tr>
 </table>
+
+###
 
 <h2 align="left">👩‍💻  About Me</h2>
 
