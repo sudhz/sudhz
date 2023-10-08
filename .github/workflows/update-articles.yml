@@ -13,7 +13,7 @@ jobs:
             - name: Generate README
               uses: huantt/article-listing@v1.1.0
               with:
-                username: YOUR_USERNAME_ON_DEV_TO                
+                username: sudhz_                
                 template-file: 'README.md.template'
                 out-file: 'README.md'
                 limit: 5
