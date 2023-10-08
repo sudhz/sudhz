@@ -25,8 +25,6 @@
 
 {{ template "article-table" .Articles }}
 
-*Updated at: {{formatTime .UpdatedAt}}*
-
 <h2 align="left">👩‍💻  About Me</h2>
 
 ###
