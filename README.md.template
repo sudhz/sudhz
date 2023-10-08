@@ -21,9 +21,13 @@
 
 ###
 
-## My Recent Blogs
+<h2 align="left">📝  My Recent Blogs</h2>
+
+###
 
 {{ template "article-table" .Articles }}
+
+###
 
 <h2 align="left">👩‍💻  About Me</h2>
 
