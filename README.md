@@ -75,7 +75,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on <strong>Shell Scripting</strong><br><br>🌱 I’m currently learning <strong>DevOps</strong><br><br>🤝 I’m looking for help with <strong>Design and UI/UX</strong><br><br>📫 How to reach me: <a href="mailto:shudhanshumakwana@gmail.com">shudhanshumakwana@gmail.com</a></p>
+<p align="left">🔭 I’m currently working on <strong>TypeScript</strong><br><br>🌱 I’m currently learning <strong>Discord.js</strong><br><br>🤝 I’m looking for help with <strong>Design and UI/UX</strong><br><br>📫 How to reach me: <a href="mailto:shudhanshumakwana@gmail.com">shudhanshumakwana@gmail.com</a></p>
 
 ###
 
