@@ -28,7 +28,7 @@
 
 <table>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--jHACVQhI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1puqiyel7z62n7vpk756.jpg" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1puqiyel7z62n7vpk756.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/sudhz_/expose-vs-publish-in-docker-a-deeper-dive-457g">EXPOSE vs. Publish in Docker: A Deeper Dive</a>
                 <div>Recently, I interviewed for a DevOps position. To demonstrate my skills, I proudly presented the...</div>
@@ -36,7 +36,7 @@
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--yt58MuRN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kvjyy68mco8k2dbmbz9o.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkvjyy68mco8k2dbmbz9o.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/sudhz_/getting-started-with-vagrant-for-local-development-environments-3hk6">Getting Started with Vagrant for Local Development Environments</a>
                 <div>If you&#39;re a developer, you know how important it is to have a reliable and efficient local...</div>
@@ -44,7 +44,7 @@
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ziq6XFGu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3tjtvss4asj3lqlfcag.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe3tjtvss4asj3lqlfcag.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/sudhz_/a-comprehensive-guide-to-linux-commands-for-devops-warriors-17ee">A Comprehensive Guide to Linux Commands for DevOps Warriors</a>
                 <div>System Info Commands   Understanding system information is crucial for any DevOps engineer....</div>
@@ -52,7 +52,7 @@
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--TPvQA-H---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h1gkset7276rk8gsxb9h.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh1gkset7276rk8gsxb9h.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/sudhz_/devops-demystified-the-catalyst-for-modern-software-delivery-546h">DevOps Demystified: The Catalyst for Modern Software Delivery</a>
                 <div>In the realm of software development and IT, DevOps has emerged as a transformative force. But what...</div>
@@ -60,7 +60,7 @@
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--CEBQFEl2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n6oj7qyz6yikti17rxwi.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn6oj7qyz6yikti17rxwi.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/sudhz_/demystifying-continuous-integration-vs-continuous-delivery-for-beginners-46ml">Demystifying Continuous Integration vs Continuous Delivery for Beginners</a>
                 <div>Continuous Integration vs Continuous Delivery Explained for Beginners   Welcome to the world...</div>
