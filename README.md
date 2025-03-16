@@ -1,4 +1,4 @@
-# Hey there, I'm Sudhz! 👋
+# Hey there, I'm Sudhanshu 👋
 
 I'm a software developer who loves building things that solve real problems. I enjoy digging into backend engineering, experimenting with DevOps, crafting user-friendly CLI tools, and playing around with AI.
 
