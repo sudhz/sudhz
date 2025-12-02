@@ -1,6 +1,6 @@
 # Hey there, I'm Sudhanshu 👋
 
-I'm a software developer who loves building things that solve real problems. I enjoy digging into backend engineering, experimenting with DevOps, crafting user-friendly CLI tools, and playing around with AI.
+I'm a software developer who loves building things that solve real problems. I work across backend engineering, AI/ML tooling, and DevOps mostly in the Microsoft ecosystem, but I enjoy exploring Go and Python when the problem calls for it.
 
 ## 🛠️ Stuff I Work With
 
@@ -11,16 +11,16 @@ I'm a software developer who loves building things that solve real problems. I e
 
 ## 🚀 What I'm Up To Right Now
 
+- Building production-grade AI agents and custom MCP servers
 - Creating intuitive CLI applications with neat and clean designs
 - Experimenting with streaming APIs using .NET Core
-- Building cool AI plugins and agents with Semantic Kernel
 - Deepening my understanding of computer architecture and designing scalable systems
 
 ## 🌱 Stuff I'm Curious About
 
-- Advanced computer architecture (instruction pipelining, caching, parallel processing)
-- System design (service layers, scalability, complex architectures)
-- Performance optimization using async programming in C# and Go
+- Instruction pipelining, caching, parallelism, and low-level architecture
+- Distributed systems, service layers, and scalable backend design
+- Performance tuning using async, concurrency, and low-latency patterns in C# and Go
+- Combining AI, infra, and backend engineering to build real products
 
 Always down to chat, learn, or collaborate on cool ideas!
-
