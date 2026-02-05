@@ -12,7 +12,6 @@ I'm a software developer who loves building things that solve real problems. I w
 ## 🚀 What I'm Up To Right Now
 
 - Building production-grade AI agents and custom MCP servers
-- Creating intuitive CLI applications with neat and clean designs
 - Experimenting with streaming APIs using .NET Core
 - Deepening my understanding of computer architecture and designing scalable systems
 
